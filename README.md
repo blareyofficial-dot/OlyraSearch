@@ -42,5 +42,5 @@ The project is fully open‑source under the **MIT License**, allowing community
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/olyra-search.git
+git clone https://github.com/blareyofficial-dot/olyrasearch.git
 cd olyra-search
